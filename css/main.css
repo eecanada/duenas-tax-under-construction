@@ -2919,3 +2919,8 @@ html.no-csstransitions .intro-content__bottom {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
+.modal-none{
+  display: none !important;
+}

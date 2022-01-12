@@ -80,6 +80,7 @@
         function toggleModal() {
             modal.classList.toggle("show-modal");
         }
+
         function windowOnClick(event) {
             if (event.target === modal) {
                 toggleModal();
