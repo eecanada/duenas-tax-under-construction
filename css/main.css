@@ -2927,3 +2927,7 @@ html.no-csstransitions .intro-content__bottom {
 .modal-none{
   display: none !important;
 }
+
+#irs-tax-logo{
+  max-width: 20%;
+}
